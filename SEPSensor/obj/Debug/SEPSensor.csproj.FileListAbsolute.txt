@@ -1,0 +1,18 @@
+C:\ProjectBase\SEPSensor\SEPSensor\bin\Debug\SEPSensor.exe.config
+C:\ProjectBase\SEPSensor\SEPSensor\bin\Debug\SEPSensor.exe
+C:\ProjectBase\SEPSensor\SEPSensor\bin\Debug\SEPSensor.pdb
+C:\ProjectBase\SEPSensor\SEPSensor\obj\Debug\SEPSensor.csprojResolveAssemblyReference.cache
+C:\ProjectBase\SEPSensor\SEPSensor\obj\Debug\SEPSensor.exe
+C:\ProjectBase\SEPSensor\SEPSensor\obj\Debug\SEPSensor.pdb
+C:\ProjectBase\SEPSensor\SEPSensor\bin\Debug\gmapi.dll
+C:\ProjectBase\SEPSensor\SEPSensor\bin\Debug\gmapi.pdb
+T:\Development\BBN\Aktuelle Projekte\SEPSensor\Source\SEPSensor\bin\Debug\SEPSensor.exe.config
+T:\Development\BBN\Aktuelle Projekte\SEPSensor\Source\SEPSensor\obj\Debug\SEPSensor.exe
+T:\Development\BBN\Aktuelle Projekte\SEPSensor\Source\SEPSensor\obj\Debug\SEPSensor.pdb
+Z:\Development\BBN\Aktuelle Projekte\SEPSensor\Source\SEPSensor\bin\Debug\SEPSensor.exe.config
+Z:\Development\BBN\Aktuelle Projekte\SEPSensor\Source\SEPSensor\obj\Debug\SEPSensor.exe
+Z:\Development\BBN\Aktuelle Projekte\SEPSensor\Source\SEPSensor\obj\Debug\SEPSensor.pdb
+Z:\Development\BBN\Aktuelle Projekte\SEPSensor\Source\SEPSensor\bin\Debug\SEPSensor.exe
+Z:\Development\BBN\Aktuelle Projekte\SEPSensor\Source\SEPSensor\bin\Debug\SEPSensor.pdb
+Z:\Development\BBN\Aktuelle Projekte\SEPSensor\Source\SEPSensor\bin\Debug\gmapi.pdb
+Z:\Development\BBN\Aktuelle Projekte\SEPSensor\Source\SEPSensor\obj\Debug\SEPSensor.csprojResolveAssemblyReference.cache
